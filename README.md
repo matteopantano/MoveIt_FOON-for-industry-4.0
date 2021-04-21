@@ -23,7 +23,7 @@ moveit
 ## Contributors
 
 Thanks goes to these wonderful people:
-[Sherif Shousha](https://github.com/SherifShousha)
+[Sherif Shousha](https://github.com/SherifShousha)<br />
 [Matteo Pantano](https://github.com/matteopantano)
 
 Contributions of any kind welcome!
